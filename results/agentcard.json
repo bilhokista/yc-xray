@@ -1,0 +1,33 @@
+{
+  "claims": [
+    {
+      "quote": "Powering payments for agentic startups",
+      "stage": "customer",
+      "cites": null,
+      "support": "none",
+      "hasNumber": false
+    },
+    {
+      "quote": "Consumer apps, B2B companies and crypto teams run their agents’ purchases on Agentcard.",
+      "stage": "customer",
+      "cites": "Orchid",
+      "support": "pointed",
+      "hasNumber": true
+    },
+    {
+      "quote": "Personal assistant companies use Agentcard as their payment infrastructure.",
+      "stage": "customer",
+      "cites": "Orchid",
+      "support": "pointed",
+      "hasNumber": false
+    },
+    {
+      "quote": "Kernel, Browserbase, your own browser, Linq and Blooio: the stack your agent already runs on.",
+      "stage": "customer",
+      "cites": null,
+      "support": "none",
+      "hasNumber": false
+    }
+  ],
+  "rejected": []
+}

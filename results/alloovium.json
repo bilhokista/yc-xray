@@ -1,0 +1,68 @@
+{
+  "claims": [
+    {
+      "quote": "The most successful construction software ever written is Microsoft Word",
+      "stage": "problem",
+      "cites": null,
+      "support": "none",
+      "hasNumber": false
+    },
+    {
+      "quote": "Alloovium is the multiplayer AI powering general contractors to take control of their disconnected systems.",
+      "stage": "problem",
+      "cites": null,
+      "support": "none",
+      "hasNumber": false
+    },
+    {
+      "quote": "We all know how much gets lost on site.",
+      "stage": "problem",
+      "cites": null,
+      "support": "none",
+      "hasNumber": false
+    },
+    {
+      "quote": "Certified for SOC 2 Type I, ensuring the highest standards of privacy and security.",
+      "stage": "advantage",
+      "cites": null,
+      "support": "none",
+      "hasNumber": true
+    },
+    {
+      "quote": "It's unique to the other ones too.",
+      "stage": "advantage",
+      "cites": "AI & Digital Transformation Lead",
+      "support": "pointed",
+      "hasNumber": false
+    },
+    {
+      "quote": "Proactively weigh up risks and obligations to a project in less time.",
+      "stage": "offer",
+      "cites": null,
+      "support": "none",
+      "hasNumber": false
+    },
+    {
+      "quote": "With full visibility across connected systems, spend time running the project instead of letting systems run you.",
+      "stage": "offer",
+      "cites": null,
+      "support": "none",
+      "hasNumber": false
+    },
+    {
+      "quote": "It's like taking one person working on a system and giving him 3,000 minions.",
+      "stage": "evidence",
+      "cites": "HSEQ Manager",
+      "support": "pointed",
+      "hasNumber": true
+    },
+    {
+      "quote": "That's the stuff that's increasing our productivity. It's increasing our revenue.",
+      "stage": "evidence",
+      "cites": "Solutions Leader",
+      "support": "pointed",
+      "hasNumber": false
+    }
+  ],
+  "rejected": []
+}

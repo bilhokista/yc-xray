@@ -1,0 +1,54 @@
+{
+  "claims": [
+    {
+      "quote": "Building retrieval is easy. Keeping it working is the cost: portal logins, provider quirks, network changes.",
+      "stage": "problem",
+      "cites": null,
+      "support": "none",
+      "hasNumber": false
+    },
+    {
+      "quote": "Voice and browser agents work the portals for the long tail API-only tools miss.",
+      "stage": "advantage",
+      "cites": null,
+      "support": "none",
+      "hasNumber": false
+    },
+    {
+      "quote": "Every retrieval teaches Hubble how to reach each provider, so coverage and success rates keep climbing.",
+      "stage": "advantage",
+      "cites": null,
+      "support": "none",
+      "hasNumber": false
+    },
+    {
+      "quote": "The team behind AI agents used by millions of patients in healthcare.",
+      "stage": "advantage",
+      "cites": "Grow Therapy",
+      "support": "pointed",
+      "hasNumber": true
+    },
+    {
+      "quote": "Records flow in hours, not months of manual work.",
+      "stage": "offer",
+      "cites": null,
+      "support": "none",
+      "hasNumber": false
+    },
+    {
+      "quote": "70,000+ PROVIDERS, ACROSS THE SYSTEMS PATIENT DATA LIVES IN",
+      "stage": "evidence",
+      "cites": null,
+      "support": "none",
+      "hasNumber": true
+    },
+    {
+      "quote": "Live in production across leading EHRs and payers.",
+      "stage": "evidence",
+      "cites": null,
+      "support": "none",
+      "hasNumber": false
+    }
+  ],
+  "rejected": []
+}

@@ -1,0 +1,8 @@
+{"claims":[
+{"quote":"Robotics capabilities are progressing rapidly","stage":"problem","cites":"Source: METR, Task-Completion Time Horizons of Frontier AI Models"},
+{"quote":"Frontier labs are racing to develop general-purpose robots in the next two years.","stage":"problem"},
+{"quote":"The Internet is filled with cherry-picked demo videos. No continuous, standardized evaluations for robotics exist.","stage":"problem","cites":"Nikola Jurkovic"},
+{"quote":"We measure robotics capabilities in the real world, independent of any agenda.","stage":"advantage"},
+{"quote":"97k+ PyPI installs","stage":"evidence","cites":"GitHub"},
+{"quote":"General-purpose robots may arrive within years, with profound implications for the economy and the labor market.","stage":"narrative"}
+]}

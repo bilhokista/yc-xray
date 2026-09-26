@@ -1,0 +1,210 @@
+[
+ {
+  "name": "Atlas Discovery",
+  "slug": "atlas-discovery",
+  "website": "https://atlasdiscovery.bio",
+  "one_liner": "AI-native pharma company",
+  "industry": "Healthcare",
+  "team_size": 3
+ },
+ {
+  "name": "Alloovium",
+  "slug": "alloovium",
+  "website": "https://www.alloovium.com/en",
+  "one_liner": "The company brain for construction companies",
+  "industry": "Real Estate and Construction",
+  "team_size": 5
+ },
+ {
+  "name": "Agentcard",
+  "slug": "agentcard",
+  "website": "https://agentcard.sh",
+  "one_liner": "cards for AI agents",
+  "industry": "Fintech",
+  "team_size": 0
+ },
+ {
+  "name": "Orchestra",
+  "slug": "orchestra",
+  "website": "https://orchestra.ai/",
+  "one_liner": "Self-optimizing neocloud that cuts LLM costs by 100x",
+  "industry": "B2B",
+  "team_size": 2
+ },
+ {
+  "name": "Earendil Robotics",
+  "slug": "earendil-robotics",
+  "website": "https://earendil.io",
+  "one_liner": "Drone swarm defence at a small-unit level",
+  "industry": "Industrials",
+  "team_size": 7
+ },
+ {
+  "name": "Ultrasonium",
+  "slug": "ultrasonium",
+  "website": "https://ultrasonium.com/",
+  "one_liner": "Metal manufacturing, faster, cheaper, and more versatile.",
+  "industry": "Industrials",
+  "team_size": 5
+ },
+ {
+  "name": "Mireye",
+  "slug": "mireye",
+  "website": "https://www.mireye.com/",
+  "one_liner": "Search Engine for the Physical World",
+  "industry": "B2B",
+  "team_size": 2
+ },
+ {
+  "name": "TryNearby",
+  "slug": "trynearby",
+  "website": "https://trynearby.com",
+  "one_liner": "Local creators for local businesses",
+  "industry": "B2B",
+  "team_size": 5
+ },
+ {
+  "name": "Datoric",
+  "slug": "datoric",
+  "website": "https://www.datoric.com",
+  "one_liner": "The secure training data R&D engine for physical AI",
+  "industry": "B2B",
+  "team_size": 2
+ },
+ {
+  "name": "Pennant",
+  "slug": "pennant",
+  "website": "https://www.getpennant.ai",
+  "one_liner": "The World Model for Corporate Governance",
+  "industry": "Fintech",
+  "team_size": 2
+ },
+ {
+  "name": "Alkera AI",
+  "slug": "alkera-ai",
+  "website": "https://alkera.ai",
+  "one_liner": "Reliable and safe data engineering and data science agents",
+  "industry": "B2B",
+  "team_size": 3
+ },
+ {
+  "name": "Bloomy",
+  "slug": "bloomy",
+  "website": "https://bloomylearning.com/",
+  "one_liner": "AI-native learning for every school",
+  "industry": "Education",
+  "team_size": 1
+ },
+ {
+  "name": "Hubble",
+  "slug": "hubble-ai",
+  "website": "https://hubble.ai/",
+  "one_liner": "AI-native retrieval engine for medical records",
+  "industry": "Healthcare",
+  "team_size": 2
+ },
+ {
+  "name": "Mass Magnetics",
+  "slug": "mass-magnetics",
+  "website": "https://massmagnetics.com/",
+  "one_liner": "USA-made magnetics for robotics and defense. ",
+  "industry": "Industrials",
+  "team_size": 3
+ },
+ {
+  "name": "Studio",
+  "slug": "studio",
+  "website": "https://trystudio.ai",
+  "one_liner": "Accurately simulate market response at scale",
+  "industry": "B2B",
+  "team_size": 2
+ },
+ {
+  "name": "Ekho Labs",
+  "slug": "ekho-labs",
+  "website": "https://ekholabs.com/",
+  "one_liner": "World Model for Freight",
+  "industry": "B2B",
+  "team_size": 0
+ },
+ {
+  "name": "Dream",
+  "slug": "dream",
+  "website": "https://www.pingdream.com/",
+  "one_liner": "Using VLMs to Catch Damage",
+  "industry": "B2B",
+  "team_size": 2
+ },
+ {
+  "name": "CarSignal",
+  "slug": "carsignal",
+  "website": "https://www.trycarsignal.com",
+  "one_liner": "The AI Operating System for Auto Shops.",
+  "industry": "B2B",
+  "team_size": 2
+ },
+ {
+  "name": "Rational",
+  "slug": "rational",
+  "website": "https://rational.to",
+  "one_liner": "First Zero-human Accounting Firm",
+  "industry": "B2B",
+  "team_size": 2
+ },
+ {
+  "name": "SpaceFlow Technologies, Inc.",
+  "slug": "spaceflow-technologies-inc",
+  "website": "https://spaceflow.tech",
+  "one_liner": "AI-native procurement services for the physical economy",
+  "industry": "B2B",
+  "team_size": 4
+ },
+ {
+  "name": "Jcode",
+  "slug": "jcode",
+  "website": "https://jcode.sh/",
+  "one_liner": "High performance coding agents",
+  "industry": "Consumer",
+  "team_size": 1
+ },
+ {
+  "name": "Rex",
+  "slug": "rex-inc",
+  "website": "https://www.rex.inc",
+  "one_liner": "AI-native BPO for enterprise order-to-cash",
+  "industry": "B2B",
+  "team_size": 2
+ },
+ {
+  "name": "Amorphic Labs",
+  "slug": "amorphic-labs",
+  "website": "https://www.agentmuxer.com",
+  "one_liner": "OpenRouter for Agent Tools",
+  "industry": "B2B",
+  "team_size": 2
+ },
+ {
+  "name": "Robocurve",
+  "slug": "robocurve",
+  "website": "https://robocurve.org",
+  "one_liner": "Evals for robots",
+  "industry": "Industrials",
+  "team_size": 3
+ },
+ {
+  "name": "Frontier Computing",
+  "slug": "frontier-computing",
+  "website": "https://frontier.site",
+  "one_liner": "Frontier grows scalable biological brains as an ML training substrate",
+  "industry": "Industrials",
+  "team_size": 3
+ },
+ {
+  "name": "Risklytics",
+  "slug": "risklytics",
+  "website": "https://www.risklytics.ai/",
+  "one_liner": "AI-Native Insurance for Frontier Tech",
+  "industry": "Fintech",
+  "team_size": 2
+ }
+]

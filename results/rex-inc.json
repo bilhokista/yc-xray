@@ -1,0 +1,68 @@
+{
+  "claims": [
+    {
+      "quote": "Manual work is the bottleneck between invoices and cash.",
+      "stage": "problem",
+      "cites": null,
+      "support": "none",
+      "hasNumber": false
+    },
+    {
+      "quote": "Most teams can go live with Rex in under two weeks.",
+      "stage": "offer",
+      "cites": null,
+      "support": "none",
+      "hasNumber": true
+    },
+    {
+      "quote": "Start in days. See value in weeks.",
+      "stage": "offer",
+      "cites": null,
+      "support": "none",
+      "hasNumber": false
+    },
+    {
+      "quote": "The AR inbox, 30+ customer portals, and collections, handled by Rex with no added headcount.",
+      "stage": "evidence",
+      "cites": "Read the customer story",
+      "support": "pointed",
+      "hasNumber": true
+    },
+    {
+      "quote": "its autonomy rate climbing from 70% to 92% as it learns.",
+      "stage": "evidence",
+      "cites": null,
+      "support": "none",
+      "hasNumber": true
+    },
+    {
+      "quote": "Out of 2500 teams",
+      "stage": "evidence",
+      "cites": null,
+      "support": "none",
+      "hasNumber": true
+    },
+    {
+      "quote": "90%+ INBOX AUTO-TRIAGE RATE",
+      "stage": "evidence",
+      "cites": null,
+      "support": "none",
+      "hasNumber": true
+    },
+    {
+      "quote": "12d FASTER DSO",
+      "stage": "evidence",
+      "cites": null,
+      "support": "none",
+      "hasNumber": true
+    },
+    {
+      "quote": "Customers typically see DSO improve by around 12 days and save more than 20 hours of manual work per AR operator each week.",
+      "stage": "evidence",
+      "cites": null,
+      "support": "none",
+      "hasNumber": true
+    }
+  ],
+  "rejected": []
+}

@@ -1,0 +1,68 @@
+{
+  "claims": [
+    {
+      "quote": "97 DAYS UNTIL COVERED-COUNTRY RESTRICTIONS",
+      "stage": "problem",
+      "cites": "10 U.S.C. § 4872",
+      "support": "pointed",
+      "hasNumber": true
+    },
+    {
+      "quote": "If you hope to sell anything that walks, drives, or flies to Uncle Sam in 2027, you're going to need some magnets.",
+      "stage": "problem",
+      "cites": "10 U.S.C. § 4872",
+      "support": "pointed",
+      "hasNumber": true
+    },
+    {
+      "quote": "The global magnet refinement industry generates 15-30 GBq of radioactive waste per year.",
+      "stage": "problem",
+      "cites": "Benchmark Mineral Intelligence",
+      "support": "pointed",
+      "hasNumber": true
+    },
+    {
+      "quote": "This represents roughly 5-10% of the rare-earth industry's ~300 GBq/yr of total radioactive emissions.",
+      "stage": "problem",
+      "cites": "Benchmark Mineral Intelligence",
+      "support": "pointed",
+      "hasNumber": true
+    },
+    {
+      "quote": "60 s FROM POWDER TO FULLY DENSE MAGNET",
+      "stage": "advantage",
+      "cites": null,
+      "support": "none",
+      "hasNumber": true
+    },
+    {
+      "quote": "100% MILLED & SINTERED IN THE USA",
+      "stage": "advantage",
+      "cites": null,
+      "support": "none",
+      "hasNumber": true
+    },
+    {
+      "quote": "Recycled material yields fewer heavy metals than rare-earth refining.",
+      "stage": "advantage",
+      "cites": null,
+      "support": "none",
+      "hasNumber": false
+    },
+    {
+      "quote": "We are the first to take these vision systems into the field, sorting magnets by grade and chemistry, not geography.",
+      "stage": "advantage",
+      "cites": null,
+      "support": "none",
+      "hasNumber": false
+    },
+    {
+      "quote": "Long-lived radioactive waste avoided for every kilogram of Nd/Pr material we recycle instead of mine.",
+      "stage": "narrative",
+      "cites": null,
+      "support": "none",
+      "hasNumber": false
+    }
+  ],
+  "rejected": []
+}

@@ -1,0 +1,47 @@
+{
+  "claims": [
+    {
+      "quote": "Most of the week goes to maintaining legacy pipelines, triaging broken ones, and reconciling knowledge scattered across tools and teams.",
+      "stage": "problem",
+      "cites": null,
+      "support": "none",
+      "hasNumber": false
+    },
+    {
+      "quote": "More time fighting infrastructure than doing science: hunting for GPUs, babysitting long jobs, rewriting throwaway notebooks.",
+      "stage": "problem",
+      "cites": null,
+      "support": "none",
+      "hasNumber": false
+    },
+    {
+      "quote": "Weeks waiting on engineering for one new pipeline.",
+      "stage": "problem",
+      "cites": null,
+      "support": "none",
+      "hasNumber": false
+    },
+    {
+      "quote": "Integrate within minutes with connectors tailored for agents.",
+      "stage": "offer",
+      "cites": null,
+      "support": "none",
+      "hasNumber": false
+    },
+    {
+      "quote": "Self-Healing Data Pipelines",
+      "stage": "offer",
+      "cites": "Based on internal testing and early deployments.",
+      "support": "pointed",
+      "hasNumber": false
+    },
+    {
+      "quote": "Ranked first on DataAgentBench.",
+      "stage": "evidence",
+      "cites": "select from the DataAgentBench leaderboard as of July 16, 2026",
+      "support": "pointed",
+      "hasNumber": false
+    }
+  ],
+  "rejected": []
+}

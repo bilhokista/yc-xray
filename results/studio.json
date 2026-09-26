@@ -1,0 +1,61 @@
+{
+  "claims": [
+    {
+      "quote": "A whole market is too big to predict and one customer is too noisy.",
+      "stage": "problem",
+      "cites": null,
+      "support": "none",
+      "hasNumber": false
+    },
+    {
+      "quote": "Studio models the groups in between, and the influence running between them, because groups behave in patterns you can trust.",
+      "stage": "advantage",
+      "cites": null,
+      "support": "none",
+      "hasNumber": false
+    },
+    {
+      "quote": "The same decision in the same society returns the same result.",
+      "stage": "advantage",
+      "cites": null,
+      "support": "none",
+      "hasNumber": false
+    },
+    {
+      "quote": "95% FORECAST ACCURACY",
+      "stage": "evidence",
+      "cites": null,
+      "support": "none",
+      "hasNumber": true
+    },
+    {
+      "quote": "5 ENTERPRISE CLIENTS",
+      "stage": "evidence",
+      "cites": null,
+      "support": "none",
+      "hasNumber": true
+    },
+    {
+      "quote": "200M CONSUMERS MODELED",
+      "stage": "evidence",
+      "cites": null,
+      "support": "none",
+      "hasNumber": true
+    },
+    {
+      "quote": "A streaming service tests 5 cancellation flows and finds the pause offer keeps 3 times more subscribers.",
+      "stage": "evidence",
+      "cites": null,
+      "support": "none",
+      "hasNumber": true
+    },
+    {
+      "quote": "A retail bank introduces a monthly account fee 3 ways and finds the one customers accept without leaving.",
+      "stage": "evidence",
+      "cites": null,
+      "support": "none",
+      "hasNumber": true
+    }
+  ],
+  "rejected": []
+}

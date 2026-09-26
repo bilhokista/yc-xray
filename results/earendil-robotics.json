@@ -1,0 +1,47 @@
+{
+  "claims": [
+    {
+      "quote": "The threat evolved.",
+      "stage": "problem",
+      "cites": null,
+      "support": "none",
+      "hasNumber": false
+    },
+    {
+      "quote": "Deterrence that doesn't decay.",
+      "stage": "offer",
+      "cites": null,
+      "support": "none",
+      "hasNumber": false
+    },
+    {
+      "quote": "Every operator sees the same battlefield. Nobody fights blind.",
+      "stage": "offer",
+      "cites": null,
+      "support": "none",
+      "hasNumber": false
+    },
+    {
+      "quote": "Darkness isn't cover anymore.",
+      "stage": "offer",
+      "cites": null,
+      "support": "none",
+      "hasNumber": false
+    },
+    {
+      "quote": "All three are in active combat operations.",
+      "stage": "evidence",
+      "cites": null,
+      "support": "none",
+      "hasNumber": true
+    },
+    {
+      "quote": "Earendil is how the West stays ahead of the threat.",
+      "stage": "narrative",
+      "cites": null,
+      "support": "none",
+      "hasNumber": false
+    }
+  ],
+  "rejected": []
+}

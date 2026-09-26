@@ -1,0 +1,26 @@
+{
+  "claims": [
+    {
+      "quote": "The world's best models need the right data.",
+      "stage": "problem",
+      "cites": null,
+      "support": "none",
+      "hasNumber": false
+    },
+    {
+      "quote": "Through continuous research, we discover new collection methodologies that close the gap between data and downstream model failure.",
+      "stage": "advantage",
+      "cites": null,
+      "support": "none",
+      "hasNumber": false
+    },
+    {
+      "quote": "Licensed, ethically sourced, and built to move frontier systems from research to reality.",
+      "stage": "offer",
+      "cites": null,
+      "support": "none",
+      "hasNumber": false
+    }
+  ],
+  "rejected": []
+}

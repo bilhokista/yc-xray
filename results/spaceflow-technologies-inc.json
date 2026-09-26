@@ -1,0 +1,33 @@
+{
+  "claims": [
+    {
+      "quote": "World-class procurement should not require a Fortune 500 team.",
+      "stage": "problem",
+      "cites": null,
+      "support": "none",
+      "hasNumber": true
+    },
+    {
+      "quote": "Every new product, supplier, factory or location adds work faster than teams can hire.",
+      "stage": "problem",
+      "cites": null,
+      "support": "none",
+      "hasNumber": false
+    },
+    {
+      "quote": "More work moving. Better precision and control.",
+      "stage": "offer",
+      "cites": null,
+      "support": "none",
+      "hasNumber": false
+    },
+    {
+      "quote": "“RFQs move faster. More purchasing stays on contract. Price leakage becomes visible before it compounds.”",
+      "stage": "evidence",
+      "cites": null,
+      "support": "none",
+      "hasNumber": false
+    }
+  ],
+  "rejected": []
+}

@@ -1,0 +1,33 @@
+{
+  "claims": [
+    {
+      "quote": "No source. No timestamp. Estimated range.",
+      "stage": "problem",
+      "cites": null,
+      "support": "none",
+      "hasNumber": false
+    },
+    {
+      "quote": "Every “should I care about this place, and why?” question routes to the same API — these are the desks already asking it.",
+      "stage": "customer",
+      "cites": null,
+      "support": "none",
+      "hasNumber": false
+    },
+    {
+      "quote": "Every value cited",
+      "stage": "offer",
+      "cites": "USGS",
+      "support": "pointed",
+      "hasNumber": false
+    },
+    {
+      "quote": "Power your agents to make decisions about the physical world",
+      "stage": "offer",
+      "cites": null,
+      "support": "none",
+      "hasNumber": false
+    }
+  ],
+  "rejected": []
+}

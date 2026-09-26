@@ -1,0 +1,68 @@
+{
+  "claims": [
+    {
+      "quote": "On PO-4471, equipment surcharge alone ran $150–500/TEU.",
+      "stage": "problem",
+      "cites": "EIA · Lloyd’s List · carrier filings · AIS · sanctions feeds",
+      "support": "pointed",
+      "hasNumber": true
+    },
+    {
+      "quote": "Your next disruption is already forming.",
+      "stage": "problem",
+      "cites": null,
+      "support": "none",
+      "hasNumber": false
+    },
+    {
+      "quote": "Ekho combines 1M+ public and licensed data sources",
+      "stage": "advantage",
+      "cites": null,
+      "support": "none",
+      "hasNumber": true
+    },
+    {
+      "quote": "PO-level reroutes, carrier alternatives, and booking windows, delivered into your TMS days before disruption hits.",
+      "stage": "offer",
+      "cites": null,
+      "support": "none",
+      "hasNumber": false
+    },
+    {
+      "quote": "Live in under 24 hours.",
+      "stage": "offer",
+      "cites": null,
+      "support": "none",
+      "hasNumber": true
+    },
+    {
+      "quote": "25 days later, seven forecasts confirmed.",
+      "stage": "evidence",
+      "cites": "See the verification",
+      "support": "pointed",
+      "hasNumber": true
+    },
+    {
+      "quote": "The ceasefire arrived April 8, inside the 4–16 week call; Cape routing settled at 35–45 days.",
+      "stage": "evidence",
+      "cites": "See the verification",
+      "support": "pointed",
+      "hasNumber": true
+    },
+    {
+      "quote": "It connects dots across weather, social sentiment, congressional voting, union communications, and everything that actually predicts disruption.",
+      "stage": "evidence",
+      "cites": "Renée Ure",
+      "support": "pointed",
+      "hasNumber": false
+    },
+    {
+      "quote": "Median lead time 12 days",
+      "stage": "evidence",
+      "cites": null,
+      "support": "none",
+      "hasNumber": true
+    }
+  ],
+  "rejected": []
+}
