@@ -1,8 +1,31 @@
 # yc-xray
 
-Data and scripts behind [117 claims on 20 YC landing pages. 76% of them point nowhere.](https://bilhokista.web.app/writing/yc-claims/)
+I took 20 random homepages from the Y Combinator Summer 2026 batch and checked every claim on them: does the page point to where the claim comes from? Every quote was checked word for word against the saved page by [flawline](https://github.com/bilhokista/flawline) `xray`. Full write-up: [117 claims on 20 YC landing pages. 76% of them point nowhere.](https://bilhokista.web.app/writing/yc-claims/)
 
-Twenty homepages from the Y Combinator Summer 2026 batch, drawn at random, with every claim on each page quoted and checked by [flawline](https://github.com/bilhokista/flawline) `xray`.
+## Findings
+
+| | |
+| --- | --- |
+| Claims found across 20 pages | 117 |
+| Claims the page gives no source for | 76% |
+| Claims that carry a number | 36% |
+| Of those numbers, shown without a source | 67% |
+| Pages where not one claim points anywhere | 35% (7 of 20) |
+
+By what the sentence is about, share with no source:
+
+| Kind of claim | No source |
+| --- | --- |
+| What the product gets you ("records flow in hours, not months") | 89% |
+| Why us ("the first to...", "built by people who've done this") | 84% |
+| The problem exists | 74% |
+| Results and proof | 62% |
+
+The claims that do point somewhere mostly point at the world outside the company: a statute, industry data, a competitor's public pricing, a forecast anyone can compare with what happened. The unsourced ones cluster around the company's own results. Four pages did it well and are named in the write-up: Ekho Labs (a forecast-versus-outcome page), Mass Magnetics (the statute and a named data provider), Robocurve (METR's chart with its source line) and CarSignal (competitor pricing "as of July 2026"). The write-up leaves the rest unnamed; the raw pages and verdicts below are here so the count can be checked.
+
+"Points nowhere" means the page gives no source. It does not mean the claim is false. Twenty pages and one reader's choice of what counts as a claim make this a small count, not a study; the limits are listed below and in the write-up.
+
+To run the same check on your own page: `npx flawline xray landing.md`.
 
 ## What is here
 
